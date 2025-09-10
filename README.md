@@ -6,7 +6,7 @@
 ### I’m pursuing a degree in Systems Analysis and Development Technology at FATEC ITU – São Paulo, aiming to truly master how networks and operating systems intertwine with programming to create robust, efficient solutions — fields of technology that truly enchant me.
 
 - 📡 I’m currently interning at an internet service provider, working as a Data Communications Technician.  
-- 🌱 I’m studying **Node.js** on my own, and at college I’m diving into **OOP with Java**, **networking**, and **databases** (SQL Server & PostgreSQL).     
+- 🌱 I’m studying Node.js on my own, and at college I’m diving into **OOP with Java**, **Practical Software Engineering with PHP**, **Databases** (SQL Server & PostgreSQL), **Project Management**, **Cybersecurity**, and **English**.   
 - ⚡ Fun fact: I’m a flashcards enthusiast who loves learning for the sheer joy of it. I also enjoy meeting new people and networking—being exposed to diverse perspectives constantly inspires me.  
 
 ## 🛠️ Skills & Tools
@@ -21,7 +21,7 @@
 ### **Projeto Contatos**  
 Web contact manager application built with Angular (frontend), Bootstrap (styling), and Spring Boot (backend). It provides a responsive interface for adding, editing, deleting and viewing contacts, with a Dockerized architecture ready for cloud-native deployment on AWS EC2.
 
-- **Tech**: Angular (TypeScript), Bootstrap, Spring Boot (Java), Docker, Docker Compose, AWS EC2 (planned) [ [Go to repo ↗](https://github.com/h-and-rod/projeto-contatos) ]
+- **Tech**: Angular (TypeScript), Bootstrap, Spring Boot (Java), Docker, Docker Compose, AWS EC2. All registered with Git [ [Go to repo ↗](https://github.com/h-and-rod/projeto-contatos) ]
 
 
 
@@ -47,5 +47,6 @@ Web contact manager application built with Angular (frontend), Bootstrap (stylin
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:henrique4r.it@gmail.com)
 
 --- -->
+
 
 <sup>Made in Itu, São Paulo, Brazil</sup>
