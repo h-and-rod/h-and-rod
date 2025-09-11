@@ -28,9 +28,9 @@ Web contact manager application built with Angular (frontend), Bootstrap (stylin
 ## 📂 Other Projects
 | Project                                | Description                                                              | Link                                                      |
 | -------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------- |
-| **Contributor: DSIM**                  | Intelligent Security Device for Monitoring (Dispositivo de Segurança Inteligente para Monitoramento).  | [Go to repo ↗](https://github.com/FTakElu/DSIM)                    |
-| **projeto-canil-supabase**             | Operations on a PostgreSQL database using Python and Supabase.   | [Go to repo ↗](https://github.com/h-and-rod/projeto-canil-supabase)        |
-| **genanki-flashcards-generator**       | A simple Python script to generate Anki flashcards programmatically using the genanki library.| [Go to repo ↗](https://github.com/h-and-rod/genanki-flashcards-generator) |
+| **java-oop-studies**             | A collection of Java projects developed while learning Object-Oriented Programming concepts, as part of my studies.   | [Go to repo ↗](https://github.com/h-and-rod/java-oop-studies)        |
+| **java-mysql-crud**       | Example of integration between Java and MySQL using JDBC (mysql-connector), with a visual interface using JFrame.| [Go to repo ↗](https://github.com/h-and-rod/java-mysql-crud) |
+| **Contributor: DSIM**                  | Intelligent Security Device for Monitoring (Dispositivo de Segurança Inteligente para Monitoramento).  | [Go to repo ↗](https://github.com/FTakElu/DSIM)     |
 
 
 
@@ -50,3 +50,4 @@ Web contact manager application built with Angular (frontend), Bootstrap (stylin
 
 
 <sup>Made in Itu, São Paulo, Brazil</sup>
+
