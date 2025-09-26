@@ -28,9 +28,11 @@ Web contact manager application built with Angular (frontend), Bootstrap (stylin
 ## 📂 Other Projects
 | Project                                | Description                                                              | Link                                                      |
 | -------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------- |
+| **sistema-vendas-swing**                  | A desktop application in Java Swing to manage a small sales system, with modules for product registration, customer registration, and issuing invoices.  | [Go to repo ↗](https://github.com/h-and-rod/sistema-vendas-swing.git)     |
 | **java-oop-studies**             | A collection of Java projects developed while learning Object-Oriented Programming concepts, as part of my studies.   | [Go to repo ↗](https://github.com/h-and-rod/java-oop-studies)        |
-| **java-mysql-crud**       | Example of integration between Java and MySQL using JDBC (mysql-connector), with a visual interface using JFrame.| [Go to repo ↗](https://github.com/h-and-rod/java-mysql-crud) |
-| **Contributor: DSIM**                  | Intelligent Security Device for Monitoring (Dispositivo de Segurança Inteligente para Monitoramento).  | [Go to repo ↗](https://github.com/FTakElu/DSIM)     |
+| **genanki-flashcards-generator**       | A simple Python script to generate Anki flashcards programmatically using the genanki library.| [Go to repo ↗](https://github.com/h-and-rod/genanki-flashcards-generator) |
+| **mvc-example-php**       | A practical implementation of the Model-View-Controller (MVC) architectural pattern in PHP, using a photographer portfolio web-site as an example. | [Go to repo ↗](https://github.com/h-and-rod/mvc-example-php) |
+
 
 
 
@@ -49,5 +51,6 @@ Web contact manager application built with Angular (frontend), Bootstrap (stylin
 
 
 <sup>Made in Itu, São Paulo, Brazil</sup>
+
 
 
