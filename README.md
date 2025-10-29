@@ -25,32 +25,26 @@ Web contact manager application built with Angular (frontend), Bootstrap (stylin
 
 
 
-## 📂 Other Projects
-| Project                                | Description                                                              | Link                                                      |
-| -------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------- |
-| **sistema-vendas-swing**                  | A desktop application in Java Swing to manage a small sales system, with modules for product registration, customer registration, and issuing invoices.  | [Go to repo ↗](https://github.com/h-and-rod/sistema-vendas-swing.git)     |
-| **java-oop-studies**             | A collection of Java projects developed while learning Object-Oriented Programming concepts, as part of my studies.   | [Go to repo ↗](https://github.com/h-and-rod/java-oop-studies)        |
-| **genanki-flashcards-generator**       | A simple Python script to generate Anki flashcards programmatically using the genanki library.| [Go to repo ↗](https://github.com/h-and-rod/genanki-flashcards-generator) |
-| **mvc-example-php**       | A practical implementation of the Model-View-Controller (MVC) architectural pattern in PHP, using a photographer portfolio web-site as an example. | [Go to repo ↗](https://github.com/h-and-rod/mvc-example-php) |
+## 📈 GitHub Stats & Social Media
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h-and-rod&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true" alt="Henrique's GitHub stats"/>
+    </td>
+    <td align="center">
+      <h3>Let's Connect</h3>
+      <a href="https://www.linkedin.com/in/h-and-rod/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+      </a><br><br>
+      <a href="mailto:henrique4r.it@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-
-
-## 📈 GitHub Stats
-
-[![Henrique's github streak](https://github-readme-streak-stats.herokuapp.com/?user=h-and-rod&theme=blue-green)](https://github.com/h-and-rod/github-readme-streak-stats)
-
-
----
-
-## 📫 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/h-and-rod/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:henrique4r.it@gmail.com)
-
-
-
-<sup>Made in Itu, São Paulo, Brazil</sup>
+<sup>Made in Itu, São Paulo, Brazil</sup>
 
 
 
